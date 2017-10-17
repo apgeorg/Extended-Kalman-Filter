@@ -1,4 +1,7 @@
 *.user
+*.settings
+*.cproject
+*.project
  Prerequisites
 *.d
 
